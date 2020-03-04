@@ -10,10 +10,10 @@ I have create a example Clock for talking time and date in .VBS with Windows Spe
 I have create an example for talking time in kurdish.
 
 ## require Installations
-pip install pyqt5
-pip install pyaudio
+- pip install pyqt5
+- pip install pyaudio
 
-#pyaudio for windows:
+# pyaudio for windows:
 1. download whl-package from here
 https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
