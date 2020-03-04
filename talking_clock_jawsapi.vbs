@@ -5,7 +5,6 @@ Dim speaks
 ' JawsAPI
 Set oJaws = CreateObject("FreedomSci.JawsApi")
 
-
 'aktuelle Uhrzeit
 speaks = "Es ist " & hour(time) & " Uhr und " & minute(time) & " minuten"
 bFlush = False
