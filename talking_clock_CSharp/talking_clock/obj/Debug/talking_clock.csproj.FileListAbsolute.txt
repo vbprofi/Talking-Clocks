@@ -1,0 +1,12 @@
+C:\Users\homepc\source\repos\talking_clock\talking_clock\obj\Debug\talking_clock.csprojAssemblyReference.cache
+C:\Users\homepc\source\repos\talking_clock\talking_clock\obj\Debug\talking_clock.csproj.CoreCompileInputs.cache
+C:\Users\homepc\source\repos\talking_clock\talking_clock\bin\Debug\talking_clock.exe
+C:\Users\homepc\source\repos\talking_clock\talking_clock\bin\Debug\talking_clock.pdb
+C:\Users\homepc\source\repos\talking_clock\talking_clock\obj\Debug\talking_clock.exe
+C:\Users\homepc\source\repos\talking_clock\talking_clock\obj\Debug\talking_clock.pdb
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\bin\Debug\talking_clock.exe
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\bin\Debug\talking_clock.pdb
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\obj\Debug\talking_clock.csprojAssemblyReference.cache
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\obj\Debug\talking_clock.csproj.CoreCompileInputs.cache
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\obj\Debug\talking_clock.exe
+C:\Users\homepc\source\repos\Talking-Clocks\talking_clock_CSharp\talking_clock\obj\Debug\talking_clock.pdb

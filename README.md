@@ -21,3 +21,6 @@ https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
 
 3. install the .whl file with pip for example in my case python 3.8:
 pip install PyAudio‑0.2.11‑cp38‑cp38‑win_amd64.whl
+
+# C# (CSharp)
+I have create an example for talking time in kurdish.
