@@ -48,6 +48,7 @@ class DigitalClock(QLCDNumber):
 
 
     def play(self, event):
+        deke = True
         zeit = QTime.currentTime()
         #stunde = time.toString('hh')
         stunde = time.strftime("%I") #%I = 12format / %H = 24format
@@ -56,7 +57,10 @@ class DigitalClock(QLCDNumber):
         self.play_audio_file("wave\\seht.wav")
         self.play_audio_file("wave\\" + stunde + ".wav")
 
-        if int(minute) <= 20:
+        if int(minute) == 0:
+            deke = False
+            pass
+        elif int(minute) <= 20 and int(minute) >= 1:
             self.play_audio_file("wave\\" + minute + ".wav")
         elif "21" in minute:
             self.play_audio_file("wave\\20.wav")
@@ -212,7 +216,8 @@ class DigitalClock(QLCDNumber):
 #            self.play_audio_file("wave\\u.wav")
             self.play_audio_file("wave\\09.wav")
 
-        self.play_audio_file("wave\\deqe.wav")
+        if deke:
+            self.play_audio_file("wave\\deqe.wav")
 
 
     def play_audio_file(self, file):
